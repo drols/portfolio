@@ -4,3 +4,7 @@
     float: left;
     margin-right: 25px;
 }
+
+body{
+    background: linear-gradient(90deg, rgba(0,78,255,1) 0%, rgba(9,9,121,1) 49%, rgba(255,175,0,1) 100%);
+}
